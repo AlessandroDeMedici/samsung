@@ -1,2 +1,2 @@
 filter.py 	-> 	Progettazione del filtro
-realtime.py 	-> 	Emulazione di un segnale che arriva in tempo reale
+realtime.py 	-> 	Emulazione del sistema con un segnale che arriva in tempo reale
